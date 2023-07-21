@@ -26,7 +26,6 @@ export const Footer = () => {
     <Box component="footer">
       <Box
         sx={{
-          // marginTop: 2,
           display: 'flex',
           flexDirection: 'column',
           alignItems: 'center',
