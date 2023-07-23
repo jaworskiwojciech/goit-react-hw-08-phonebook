@@ -10,7 +10,7 @@ function Copyright(props) {
           color="inherit"
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/Samokhvalova-Nata"
+          href="https://github.com/wojciechjaworski"
         >
           W.Jaworski
         </Link>{' '}
