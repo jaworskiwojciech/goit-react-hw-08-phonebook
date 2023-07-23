@@ -68,7 +68,6 @@ export const ContactItem = ({ id, name, number }) => {
                 md: 'left',
               },
             }}
-            // textAlign='center'
             color="#757575"
             paragraph
           >

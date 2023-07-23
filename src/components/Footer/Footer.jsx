@@ -12,7 +12,7 @@ function Copyright(props) {
           rel="noopener noreferrer"
           href="https://github.com/jaworskiwojciech"
         >
-          W.Jaworski
+          Wojciech Jaworski
         </Link>{' '}
         {new Date().getFullYear()}
         {'.'}

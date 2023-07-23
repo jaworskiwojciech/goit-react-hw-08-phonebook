@@ -21,7 +21,6 @@ export function RegisterForm() {
   const navigate = useNavigate();
   const authOperation = useSelector(selectIsAuthLoading);
 
-  // console.log('authOperation', authOperation)
 
   const handleSubmit = async event => {
     event.preventDefault();
