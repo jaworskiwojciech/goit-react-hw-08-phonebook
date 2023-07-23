@@ -12,7 +12,7 @@ import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 import { useAuth } from 'hooks';
 import { useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
-import imgBgd from '../../src/images/bgd.jpg';
+import imgBgd from '../../src/images/background.jpg';
 
 const theme = createTheme({
   palette: {
